@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: prime-app
-        image: amonkincloud/amazon-prime:latest
+        image: 9094071108/amazon-prime
         ports:
         - containerPort: 3000
